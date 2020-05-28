@@ -17,3 +17,6 @@ author：李世龙            student ID: 2019210645
     5.27 通过B站学习plotly包教程和CSDN、博客园等初步编写完成 关于`累计确诊数据`的统计并画图
           （附B站教程https://www.bilibili.com/video/BV13E411Z7XH?p=1
            博客园https://www.cnblogs.com/wangshicheng/p/10935764.html）
+           
+---
+    5.28 编写代码分别分析中美的疫情数据（累计新增，死亡，治愈），最后中美数据对比，绘制曲线 
